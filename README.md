@@ -1,6 +1,12 @@
 # Github organization repositories backup system
 This is a simple script to obtain local backups of all repos in a Github organization.
 ---
+Languages:
+<p align="center">
+  <span>English</span> |
+  <a href="https://github.com/brosas-espinosa/Repo_organizaztions_backup_system/blob/main/language/spanish/README.spanish.md">Español</a> |
+</p>
+
 You'll need a couple of things for this script to work:
 - Optional: Python virtual environment
 - Requests library
@@ -58,3 +64,4 @@ The files will be saved in the following structure:
                         <repo_files>
 ```
 If you want to change the backup path, you can do it by changing the variable `V_BACKUP_DIR` in the script.
+
