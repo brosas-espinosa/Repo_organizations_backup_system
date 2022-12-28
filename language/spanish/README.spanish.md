@@ -3,7 +3,7 @@ Este es un script simple para realizar un respaldo local de todos los repositori
 ---
 Lenguajes:
 <p align="center">
-  <a href="https://github.com/brosas-espinosa/Repo_organizaztions_backup_system/blob/main/language/spanish/README.spanish.md">English</a> |
+  <a href="https://github.com/brosas-espinosa/Repo_organizaztions_backup_system/blob/99d617aed1e1262e0a98d5790c96de5793fd9d05/README.md">English</a> |
   <span>Español</span> |
 </p>
 
